@@ -40,7 +40,7 @@ python_project/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/discord-ai-bot.git
+git clone https://github.com/SaiMonica10/Discod-bot.git
 cd discord-ai-bot
 ```
 
@@ -96,24 +96,6 @@ https://dashboard.cohere.com/api-keys
 
 ---
 
-## 🧠 Configure the Bot
-
-Open **bot.py** and replace:
-
-```python
-self.cohere = cohere.Client("YOUR_COHERE_API_KEY")
-```
-
-and
-
-```python
-client.run("YOUR_DISCORD_BOT_TOKEN")
-```
-
-with your actual keys.
-
----
-
 ## ▶️ Run the Bot
 
 ```bash
@@ -125,37 +107,6 @@ If everything works, you should see:
 ```
 Logged on as your_bot_name!
 ```
-
----
-
-## 💬 Usage
-
-Type a message in your Discord server and the bot will reply with an AI-generated response.
-
-Example:
-
-User:
-
-```
-hello bot
-```
-
-Bot:
-
-```
-Hello! How can I help you today?
-```
-
----
-
-## 🛠 Future Improvements
-
-* Conversation memory
-* Slash commands
-* Better error handling
-* Personality customization
-* Hosting the bot 24/7
-
 ---
 
 ## 📜 License
@@ -166,6 +117,6 @@ This project is open source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-Created by **[Your Name]**
+Created by **Sai Monica .R**
 
 Feel free to fork, improve, and build your own Discord bots!
